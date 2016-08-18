@@ -1,0 +1,2 @@
+# Magento-automation
+Automation scripts
